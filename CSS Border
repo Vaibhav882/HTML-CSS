@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p{
+border:5px dotted red;
+padding:30px;
+margin:50px;
+}
+</style>
+</head>
+<body>
+<h1>This is heading tiwari 1</h1>
+<p>this is a paragraph tiwari 1</p>
+<p>this is a paragraph tiwari 2</p>
+<p>this is a paragraph tiwari 3</p>
+</body>
+</html>
