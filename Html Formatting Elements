@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Page by Vaibhav tiwari</title>
+</head>
+<body>
+<b> -Bold text </b> <br>
+<storng> - Imporant text </srorng><br>
+<u> - underline </u><br>
+<del> - Deleted text </del><br>
+<sup> -Superscript test </sup><br>
+<sub> -Subrscript test </sub><br>
+</body>
+</html>
