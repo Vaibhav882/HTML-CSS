@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{
+color:red;
+font-family:vardana;
+font-size:300%;
+}
+p{
+color:green;
+font-family:courier;
+font-size:160%;
+}
+</style>
+</head>
+<body>
+<h1>this is heading tiwari 1</h1>
+<p>this is a paragraph tiwari 1</p>
+<p>this is a paragraph tiwari 2</p>
+<p>this is a paragraph tiwari 3</p>
+</body>
+</html>
