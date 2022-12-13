@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An unorderd HTML list</h2>
+
+<ul>
+<li>MCA</li>
+<li>MBA</li>
+<li>B.TECH</li>
+<li>B.PHARMA</li>
+</ul>
+</body>
+</html>
+
