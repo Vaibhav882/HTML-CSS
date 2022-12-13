@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-color:powderblue;}
+h1 {color:black;}
+p {color:black;font-family;font-size:200%;}
+h2 {color:green;}
+p {color:red;}
+</style>
+</head>
+<body>
+<h1> This is my page </h1>
+<h2> welcome to my page </h2>
+<p> Ram ram ji </p>
+<p> good morning </p>
+<p> my nameme is vaibhav tiwari </p>
+
+</body>
+</html>
