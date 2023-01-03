@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script>
+var jsonobject={"name": "vaibhav tiwari ","age" :21};
+jsonobject.age =21;
+document.write(jsonobject.name+"=="+jsonobject.age+"</br>");
+jsonostr=JSON.stringify(jsonobject);
+document.write(jsonostr+"</br>");
+var obj = JSON.parse('{"firstname":"RAM","lastName":"JI"}');
+document.write(obj.firstname+"</br>");
+
+</script>
+</head>
+
+</html>
